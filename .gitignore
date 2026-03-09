@@ -1,0 +1,9 @@
+# Veri dosyalari (buyuk dosyalar)
+*.pkl
+cifar10_raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
